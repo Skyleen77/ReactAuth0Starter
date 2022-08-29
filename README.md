@@ -1,4 +1,4 @@
-# Next and Auth0 starter
+# React and Auth0 starter
 
 ## Installation
 
